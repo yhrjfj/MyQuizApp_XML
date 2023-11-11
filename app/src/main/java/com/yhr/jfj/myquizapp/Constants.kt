@@ -9,7 +9,7 @@ object Constants {
         // Argentina
         val que1 = Question(
             1,
-            "What country does the flag belong to?",
+            "What country does this flag belong to?",
             R.drawable.ic_flag_of_argentina,
             "Argentina",
             "Australia",
